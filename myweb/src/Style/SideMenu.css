@@ -1,0 +1,40 @@
+.sidenav {
+  height: 100%;
+  width: 180px; 
+  top: 72; 
+  left: 0;
+  background-color: white; 
+  overflow-x: hidden; 
+  padding-top: 20px;
+  border-right: 1px solid #b4b4b4;
+}
+
+.withIcon {
+  gap: 12px;
+  align-items: center;
+  padding: 16px 8px;
+  border-right: 4px solid salmon;
+  background-color: #f2f2f2;
+}
+
+.sidenav a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: start;
+  font-size: 14px;
+  color: #2f2f2f;
+}
+
+.QuestionIcon {
+  height: 16px;
+}
+
+
+
+.sidenav span {
+  font-size: 12px;
+  text-align: start;
+  display: block;
+  padding: 8px 16px;
+}
