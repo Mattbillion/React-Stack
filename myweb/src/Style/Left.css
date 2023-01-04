@@ -1,0 +1,47 @@
+.list li {
+  text-align: left;
+}
+
+li {
+  padding: 8px 16px 8px 8px;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+.Home {
+  padding: 0;
+  text-align: left;
+}
+
+.Home ,a{
+  font-size: 13px;
+}
+
+.Public {
+  font-size: 13px;
+  margin-top: 16px;
+}
+
+.Questions {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  font-weight: 600;
+  background-color: #f1f2f3;
+
+ 
+  width: 100%;
+  border-right: 4px solid orange;
+}
+
+.list , li {
+  font-size: 14px;
+}
+
+.list , li {
+  padding-left: 0;
+  padding-top: 8px;
+}
