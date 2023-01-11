@@ -1,0 +1,24 @@
+button {
+display: flex;
+justify-content: center;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  display: block;
+  margin-top: 8px;
+}
+
+button {
+  margin-top: 8px;
+  
+}
+
+
+
